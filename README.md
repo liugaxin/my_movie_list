@@ -1,6 +1,9 @@
 # Movie List
 A simple web application for movie fanatic
 
+# Link
+https://liugaxin.github.io/my_movie_list/
+
 ## Features
 - listing movies from movie api
 - searching movies by title
